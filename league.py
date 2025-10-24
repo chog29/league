@@ -17,7 +17,7 @@ champion_list = [
     "ハイマーディンガー", "バード", "パイク", "パンテオン", "ビクター", "フィオラ", "フィズ", "フィドルスティックス", "フェイ", "ブライアー", "ブラウム", "ブラッドミア", "ブランド",
     "ブリッツクランク", "ヘカリム", "ベイガー", "ベル＝ヴェス", "ボリベア", "ポッピー",
     "マオカイ", "マスター・イー", "マルザハール", "マルファイト", "ミス・フォーチュン", "ミリオ", "メル", "モルガナ", "モルデカイザー",
-    "ヤスオ", "ユーミ", "ヨネ", "ヨリック",
+    "ヤスオ", "ユーミ", "ユナラ", "ヨネ", "ヨリック",
     "ライズ", "ラカン", "ラックス", "ラムス", "ランブル", "リー・シン", "リサンドラ", "リリア", "リヴェン", "ルシアン", "ルブラン", "ルル", "レオナ", "レク＝サイ",
     "レナータ・グラスク", "レネクトン", "レル", "レンガー",
     "ワーウィック", "ヴァイ", "ヴァルス", "ヴィエゴ", "ヴェイン", "ヴェックス", "ヴェル＝コズ"
@@ -41,7 +41,7 @@ champion_list = [
     ##"Smolder", "Sona", "Soraka", "Swain", "Sylas", "Syndra", "Tahm Kench", "Taliyah", "Talon", "Taric",
     ##"Teemo", "Thresh", "Tristana", "Trundle", "Tryndamere", "Twisted Fate", "Twitch", "Udyr", "Urgot",
     ##"Varus", "Vayne", "Veigar", "Vel'Koz", "Vex", "Vi", "Viego", "Viktor", "Vladimir", "Volibear",
-    ##"Warwick", "Wukong", "Xayah", "Xerath", "Xin Zhao", "Yasuo", "Yone", "Yorick", "Yuumi", "Zac",
+    ##"Warwick", "Wukong", "Xayah", "Xerath", "Xin Zhao", "Yasuo", "Yone", "Yorick", "Yuumi", "Yunara", "Zac",
     ##"Zed", "Zeri", "Ziggs", "Zilean", "Zoe", "Zyra"
 ##]
 
